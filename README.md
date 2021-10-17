@@ -22,7 +22,7 @@
   <img src="./src/img/markdown.png"  title="Markdown" height="30" width="40"> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oloko64&theme=dark&hide_border=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oloko64&theme=dark&hide_border=true&show_icons=true&count_private=true)
 
 <h1 align="center">GitHub Streak:</h1>
 
