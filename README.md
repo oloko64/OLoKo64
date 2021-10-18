@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A02F7&center=true&lines=OLoKo64...;Aways+learning+new+things;Ready+to+code+anything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A02F7&center=true&lines=Reinaldo+Rozato+Junior...;Aways+learning+new+things;Ready+to+code+anything)](https://git.io/typing-svg)
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif"/>
 
