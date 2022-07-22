@@ -20,6 +20,7 @@
   <img src="./src/img/linux.png" title="Linux" height="30" width="40">
   <img src="./src/img/bootstrap.png"  title="BootStrap" height="30" width="40"> 
   <img src="./src/img/markdown.png"  title="Markdown" height="30" width="40"> 
+  <img src="./src/img/rust.png"  title="Markdown" height="30" width="55"> 
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oloko64&theme=dark&hide_border=true&show_icons=true&count_private=true)
